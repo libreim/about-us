@@ -1,11 +1,56 @@
 ---
 title: Hackea el blog de Informática y Matemáticas
-author: David Charte &mdash; Mario Román
-date: DGIIM &mdash; Hackathon UGR
+author: David Charte **@fdavidcl** &mdash; Mario Román **@M42**
+date: "\\#hackathonUGR"
 ---
 
-# Hola!
+# dgiim.github.io/blog
 
+![](fullblog.png)
+
+# ¿Quiénes somos?
+
+![](dgiimorg.png)
+
+# Pero, ¿por qué?
+
+![](learnall.png)
+
+# ¿Cómo puedes colaborar?{.titleslide}
+
+# ¡Escribiendo!
+
+* De **informática**, **matemáticas** o cualquier cosa relacionada
+
+* Individual o **en grupos**
+
+* Elegir un tema e investigarlo mola
+
+# Diseñando
+
+* Mejoras en el diseño
+
+* Alguna imagen de cabecera
+
+* **¿Un nombre?**
+
+### *"Blog de los estudiantes del Doble Grado en Ingeniería Informática y Matemáticas de Granada"* es un poco largo
+
+# *Behind the scenes*
+
+* Ayuda con **HTML/CSS**
+
+* Gestión del blog con **Jekyll**
+
+* Preparar comprobaciones periódicas (**CI**)
+
+# ¿Qué aprenderás?{.titleslide}
+
+# Mucho
+
+* **Lo que no se aprende** en una carrera de informática/matemáticas
+
+* Cómo **montar un blog** en Github
 
 <!--link href='http://fonts.googleapis.com/css?family=Lato:400,300,700,400italic,700italic' rel='stylesheet' type='text/css'-->
 <!--link rel="stylesheet" href="http://code.cdn.mozilla.net/fonts/fira.css" /-->
@@ -28,7 +73,7 @@ date: DGIIM &mdash; Hackathon UGR
     font-size: 2.1em;
   }
   h1, b, strong {
-    color: #eeccaa;
+    color: #ddbb88;
   }
   section.titleslide {
     background: #101010;
@@ -46,8 +91,7 @@ date: DGIIM &mdash; Hackathon UGR
   }
 
   section img, figure img {
-    max-width: 800px;
-    max-height: 475px;
+    max-width: 100%;
     width: auto !important;
     height: auto !important;
     margin: 0 auto;
