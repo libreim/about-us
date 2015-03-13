@@ -26,6 +26,10 @@ date: "\\#hackathonUGR"
 
 * Elegir un tema e investigarlo mola
 
+## ¿Sobre qué tema?
+
+### Ya hemos hablado de Git, la desigualdad de las medias, JavaScript, Haskell, minería de datos, algoritmos genéticos...
+
 # Diseñando
 
 * Mejoras en el diseño
@@ -51,6 +55,16 @@ date: "\\#hackathonUGR"
 * **Lo que no se aprende** en una carrera de informática/matemáticas
 
 * Cómo **montar un blog** en Github
+
+* Lo que investiguemos entre todos
+
+* ...
+
+# ¡Gracias por vuestra atención!
+
+## ¡Feliz Digital Learning Day!
+
+## Y mañana, ¡feliz Pi Day!
 
 <!--link href='http://fonts.googleapis.com/css?family=Lato:400,300,700,400italic,700italic' rel='stylesheet' type='text/css'-->
 <!--link rel="stylesheet" href="http://code.cdn.mozilla.net/fonts/fira.css" /-->
@@ -110,4 +124,13 @@ date: "\\#hackathonUGR"
   section[aria-selected] { top: 0; opacity: 1; }
   /* After */
   section[aria-selected] ~ section { top: 5%; opacity: 0; }
+  
+  .cloud h4 {
+    font-weight: 300;
+    position: absolute;
+  }
+    .js {
+      bottom: 200px;
+      left: 400px;
+    }
 </style>
