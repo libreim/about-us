@@ -9,9 +9,7 @@ date: "Esta presentación: dgiim.github.io/blog-hackathon"
 <div>
 ## Aprender y escribir sobre Informática y Matemáticas
 
-**@dgiimgr**
-
-\#hackatonugr #hackgranada
+**@dgiimgr** #hackatonugr
 
 </div>
 </div>
